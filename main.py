@@ -7,4 +7,4 @@ bot.load_extension("Wiki")
 async def on_ready():
     print('Logged in as ' + bot.user.name)
     
-bot.run("token")
+bot.run("")
